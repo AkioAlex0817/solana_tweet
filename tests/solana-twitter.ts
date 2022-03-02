@@ -145,7 +145,7 @@ describe("solana-twitter", () => {
                 }
             }
         ])
-        assert.equal(tweetAccounts.length, 2);
+        assert.equal(tweetAccounts.length, 4);
         assert.ok(tweetAccounts.every(tweetAccounts => {
             return tweetAccounts.account.topic === 'veganism';
         }))
