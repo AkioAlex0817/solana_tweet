@@ -8,7 +8,7 @@
     "serve:mainnet": "vue-cli-service serve --mode mainnet",
     "build": "vue-cli-service build",
     "build:devnet": "vue-cli-service build --mode devnet",
-    "build:mainnet": "vue-cli-service build --mode mainnet",akioal
+    "build:mainnet": "vue-cli-service build --mode mainnet",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
